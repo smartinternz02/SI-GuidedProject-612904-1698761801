@@ -1,6 +1,5 @@
-# SI-GuidedProject-612904-1698761801
-Fetal Health Monitoring System
-Overview
+#Fetal Health Monitoring System
+Overview:
 This project focuses on the development of a fetal health monitoring system utilizing machine learning algorithms. The system analyzes decelerations and relevant parameters to assess the health condition of the fetus. This README file provides comprehensive information about the project, including instructions on usage and contributions.
 
 Table of Contents
