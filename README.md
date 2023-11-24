@@ -38,35 +38,6 @@ Evaluation metrics, including accuracy, precision, recall, F1 score, and confusi
 A user-friendly GUI allows data loading, model selection and training, and visualization of predictions and model performance.
 
 
-## Installation
-
-To install and set up the fetal health monitoring system:
-
-Clone the repository:
-
-```bash
-git clone https://github.com/edilauxillea/FetalAI.git
-```
-Navigate to the project directory:
-
-```bash
-cd fetalai
-Set up a virtual environment (optional):
-```
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-### Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-### Usage
-To use the fetal health monitoring system:
-
-Ensure the virtual environment (if created) is activated, and you are in the project directory.
-
 ### Run the GUI application:
 
 ```bash
